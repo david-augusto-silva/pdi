@@ -2,6 +2,11 @@ import cv2
 import numpy as np
 import time
 
+"""
+    PDI - Trabalho 1 - Capa de Invisibilidade
+    Alunos: David Augusto e Sabrina Milane
+"""
+
 cap = cv2.VideoCapture(0)
 time.sleep(3)  
 
